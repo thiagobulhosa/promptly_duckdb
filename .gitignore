@@ -1,0 +1,4 @@
+/synthea
+*.exe
+/output
+*.jar
